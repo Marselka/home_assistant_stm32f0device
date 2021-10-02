@@ -1,0 +1,15 @@
+{
+  "domain": "stm32f0device",
+  "name": "STM32F0 Device",
+  "documentation": "https://www.home-assistant.io/integrations/stm32f0device",
+  "requirements": ["pyserial"],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@Marselka"
+  ],
+  "iot_class": "assumed_state",
+  "version": "0.0.1"
+}
